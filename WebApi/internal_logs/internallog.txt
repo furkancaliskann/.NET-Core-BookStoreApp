@@ -1,0 +1,106 @@
+2024-10-29 18:02:28.6555 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-29 18:02:28.6693 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-29 18:02:28.6693 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-29 18:02:28.6802 Info Configuration initialized.
+2024-10-30 13:10:45.3523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-30 13:10:45.3600 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-30 13:10:45.3600 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-30 13:10:45.3600 Info Configuration initialized.
+2024-10-30 13:11:40.3777 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-30 13:11:40.3777 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-30 13:11:40.3890 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-30 13:11:40.3890 Info Configuration initialized.
+2024-10-30 13:12:10.0489 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-30 13:12:10.0489 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-30 13:12:10.0489 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-30 13:12:10.0629 Info Configuration initialized.
+2024-10-30 13:16:26.5992 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-30 13:16:26.5992 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-30 13:16:26.6093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-30 13:16:26.6093 Info Configuration initialized.
+2024-10-30 13:29:44.5858 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-30 13:29:44.5930 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-30 13:29:44.5930 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-30 13:29:44.5930 Info Configuration initialized.
+2024-10-30 13:29:57.2245 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-30 13:29:57.2245 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-30 13:29:57.2346 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-30 13:29:57.2346 Info Configuration initialized.
+2024-10-30 14:39:23.4814 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-30 14:39:23.4924 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-30 14:39:23.4988 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-30 14:39:23.4988 Info Configuration initialized.
+2024-10-31 14:29:39.5830 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 14:29:39.5830 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 14:29:39.5945 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 14:29:39.5945 Info Configuration initialized.
+2024-10-31 14:46:42.5477 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 14:46:42.5477 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 14:46:42.5588 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 14:46:42.5588 Info Configuration initialized.
+2024-10-31 15:21:06.3106 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 15:21:06.3174 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 15:21:06.3174 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 15:21:06.3264 Info Configuration initialized.
+2024-10-31 15:52:56.4178 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 15:52:56.4343 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 15:52:56.4343 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 15:52:56.4343 Info Configuration initialized.
+2024-10-31 16:02:05.6687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 16:02:05.6755 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 16:02:05.6755 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 16:02:05.6864 Info Configuration initialized.
+2024-10-31 16:06:14.2630 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 16:06:14.2695 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 16:06:14.2695 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 16:06:14.2784 Info Configuration initialized.
+2024-10-31 16:48:11.8914 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 16:48:11.8914 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 16:48:11.9034 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 16:48:11.9034 Info Configuration initialized.
+2024-10-31 16:50:14.0059 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 16:50:14.0125 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 16:50:14.0125 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 16:50:14.0125 Info Configuration initialized.
+2024-10-31 17:07:20.2348 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 17:07:20.2348 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 17:07:20.2462 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 17:07:20.2462 Info Configuration initialized.
+2024-10-31 17:37:40.6418 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 17:37:40.6418 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 17:37:40.6533 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 17:37:40.6533 Info Configuration initialized.
+2024-10-31 17:38:59.0916 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-10-31 17:38:59.0981 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-10-31 17:38:59.0981 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-10-31 17:38:59.1073 Info Configuration initialized.
+2024-11-01 13:41:35.4838 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-01 13:41:35.4838 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-01 13:41:35.4838 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-11-01 13:41:35.5011 Info Configuration initialized.
+2024-11-18 16:42:36.3012 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-18 16:42:36.3082 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-18 16:42:36.3082 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-11-18 16:42:36.3082 Info Configuration initialized.
+2024-11-18 16:43:09.2254 Info AppDomain Shutting down. LogFactory closing...
+2024-11-18 16:43:09.2254 Info LogFactory has been closed.
+2024-11-18 16:53:04.0331 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-18 16:53:04.0402 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-18 16:53:04.0402 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-11-18 16:53:04.0402 Info Configuration initialized.
+2024-11-18 16:54:24.2083 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-18 16:54:24.2154 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-18 16:54:24.2154 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-11-18 16:54:24.2259 Info Configuration initialized.
+2024-11-19 11:08:45.9327 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-19 11:08:45.9327 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-19 11:08:45.9327 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-11-19 11:08:45.9327 Info Configuration initialized.
+2024-11-19 11:57:38.3291 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-19 11:57:38.3291 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-19 11:57:38.3291 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-11-19 11:57:38.3461 Info Configuration initialized.
+2024-11-19 12:07:50.3959 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-19 12:07:50.4090 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-19 12:07:50.4184 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\source\repos\bsStoreApp\WebApi\nlog.config
+2024-11-19 12:07:50.4184 Info Configuration initialized.
