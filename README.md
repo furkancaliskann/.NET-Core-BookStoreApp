@@ -30,11 +30,12 @@
 
 2. Proje klasörüne gidin:
 
+    ```bash
     cd .NET-Core-BookStoreApp
 
 
 3. Gerekli bağımlılıkları yükleyin:
-
+    ```bash
     dotnet restore
 
 
@@ -42,12 +43,12 @@
 
 
 5. EF Core Migrations ile veritabanı oluşturun:
-
+    ```bash
     dotnet ef database update
 
 
 6. Uygulamayı başlatın:
-
+    ```bash
     dotnet run
 
 7. API'yi kullanmaya başlayabilirsiniz.
