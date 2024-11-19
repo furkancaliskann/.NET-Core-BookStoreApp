@@ -25,7 +25,7 @@
 1. Bu projeyi kendi bilgisayarınıza klonlayın:
 
    ```bash
-   git clone https://github.com/kullaniciadi/.NET-Core-BookStoreApp.git# .NET-Core-BookStoreApp
+   git clone https://github.com/furkancaliskann/.NET-Core-BookStoreApp.git# .NET-Core-BookStoreApp
 
 
 2. Proje klasörüne gidin:
