@@ -57,16 +57,22 @@
 **API Endpoint'leri**
 
 GET /api/books: Tüm kitapları listeleme.
+
 GET /api/books/{id}: ID'ye göre kitap getirme.
+
 POST /api/books: Yeni kitap ekleme.
+
 PUT /api/books/{id}: Kitap bilgilerini güncelleme.
+
 PATCH /api/books/{id}: Kitap bilgilerini kısmi güncelleme.
+
 DELETE /api/books/{id}: Kitap silme.
 
 
 **Geliştirici Notları**
 
-Projede kullanılan veritabanı Entity Framework Core (EF Core) ile yönetilmektedir. Veritabanı yapısı migrations kullanılarak oluşturulmuş ve güncellenmiştir.
+Projede kullanılan veritabanı Entity Framework Core (EF Core) ile yönetilmektedir.
+Veritabanı yapısı migrations kullanılarak oluşturulmuş ve güncellenmiştir.
 Uygulama, Katmanlı Mimari kullanılarak yazılmıştır ve Service, Repository, Controller katmanlarına ayrılmıştır.
 Kitap bilgileri, API üzerinde sayfalama, sıralama ve filtreleme özellikleriyle listelenebilir.
 
